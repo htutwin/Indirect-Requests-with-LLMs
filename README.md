@@ -1,5 +1,5 @@
 # How Well Does a Current LLM Understand Indirect Requests?
-This repository contains the data, analysis, report, and poster for the research project.
+This repository contains the data, analysis, poster and report for the research project.
 
 ## Research Question
 1. Does GPT-5.6 Luna use speaker awareness when interpreting indirect requests?
