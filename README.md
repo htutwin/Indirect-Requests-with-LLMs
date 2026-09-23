@@ -1,4 +1,4 @@
-# How Well Does a Current LLM Understand Indirect Requests?
+# How well does a current LLM understand Indirect Requests?
 This repository contains the data, analysis, poster and report for the research project.
 
 ## Research Question
